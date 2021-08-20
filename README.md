@@ -1,4 +1,4 @@
-Goekhan001 hat was geändert
+Goekhan002 hat was geändert
 # foxBMS
 
 foxBMS is a free, open and flexible development environment to design battery
