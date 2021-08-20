@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Goekhan001 hat was geändert
+>>>>>>> parent of 1ce5172 (von Goekhan002)
 # foxBMS
 
 foxBMS is a free, open and flexible development environment to design battery
